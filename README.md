@@ -1,0 +1,1 @@
+- see the scripts in the package.json, run them following the order given by the numbers (1-, 2-, etc...)
